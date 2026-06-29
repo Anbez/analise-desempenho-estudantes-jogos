@@ -15,4 +15,4 @@ Este projeto analisa o impacto do hábito de jogar no desempenho acadêmico dos 
 
 * DataBase utilizada: https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance/data
 
-*Video utilizado como guia:'Eficiência Programada - Projeto Completo de Análise de Dados com Python e Estatística na Prática' 
+*Video utilizado como guia: 'Eficiência Programada - Projeto Completo de Análise de Dados com Python e Estatística na Prática' https://www.youtube.com/watch?v=r2WUzuqleH4
